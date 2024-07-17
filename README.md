@@ -1,4 +1,4 @@
-# Triprizz
+# Triprizz(ONGOING...)
 
 Triprizz is an AI-powered travel itinerary planner Android app created with React Native. It leverages the Gemini API key to provide seamless travel planning and itinerary management.
 
